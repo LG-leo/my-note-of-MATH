@@ -1,5 +1,23 @@
 # my-note-of-MATH
 self study/ 其实是为了防止被自家数学老师炸死
+
+<div align="center">
+
+# 📚 My Note of MATH
+
+> **个人数学笔记 — IGCSE / A-Level / Further Math**
+>
+> 完整知识体系 + 详细例题 + 考点分类整理
+
+[![Mathematics](https://img.shields.io/badge/Subject-Mathematics-005B96?style=for-the-badge&logo=mathworks&logoColor=white)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub](https://img.shields.io/badge/maintained%20with-❤️-ff69b4?style=flat-square)]()
+
+</div>
+
+- **开源与分享**：所有内容都以 **MIT** 许可证开放，任何人可以自由使用与分享。
+
+
 ---
 # 配方法（详细讲解）
 
